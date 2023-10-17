@@ -171,7 +171,7 @@ const ButtonWrapper = styled(BaseButton)`
     padding: ${smPaddingY} ${smPaddingX};
 
     & > span {
-      border: ${borderSizeLarge} solid transparent;
+      border: 2px solid transparent;
     }
 
     & > label {
@@ -189,7 +189,7 @@ const ButtonWrapper = styled(BaseButton)`
     padding: ${mdPaddingY} ${mdPaddingX};
 
     & > span {
-      border: ${borderSizeLarge} solid transparent;
+      border: 2px solid transparent;
     }
   `}
 
@@ -585,7 +585,7 @@ const ButtonSpan = styled.span`
     color: ${btnDefaultBg};
     background-image: none;
     background-color: transparent;
-    border: ${borderSizeLarge} solid transparent;
+    border: 2px solid transparent;
     &:focus,
     .buttonWrapper:focus & {
       color: ${btnDefaultBg};
@@ -753,7 +753,7 @@ const ButtonSpan = styled.span`
 `;
 
 const Button = styled(BaseButton)`
-  border: ${borderSizeLarge} solid transparent;
+  border: 2px solid transparent;
   border: none;
   overflow: visible;
   display: inline-block;
