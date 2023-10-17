@@ -15,10 +15,10 @@ const colorBlueLightest = 'var(--color-blue-lightest, #E4ECF2)';
 
 const colorTransparent = 'var(--color-transparent, #ff000000)';
 
-const colorPrimary = 'var(--color-primary, #0F70D7)';
-const colorDanger = 'var(--color-danger, #DF2721)';
+const colorPrimary = 'var(--color-primary, #8662ff)';
+const colorDanger = 'var(--color-danger, #e9635f)';
 const colorDangerDark = 'var(--color-danger-dark, #AE1010)';
-const colorSuccess = 'var(--color-success, #008081)';
+const colorSuccess = 'var(--color-success, #8662FF)';
 const colorWarning = 'var(--color-warning, purple)';
 const colorOffline = `var(--color-offline, ${colorGrayLight})`;
 const colorMuted = 'var(--color-muted, #586571)';
@@ -47,11 +47,11 @@ const btnDefaultGhostBg = 'var(--btn-default-bg, rgba(255, 255, 255, 0.1))'; // 
 const btnDefaultGhostBorder = 'var(--btn-default-border, rgba(255, 255, 255, 0.5))'; // colorWhite, 50%
 const btnDefaultGhostActiveBg = 'var(--btn-default-active-bg, rgba(255, 255, 255, 0.2))'; // colorWhite, 20%
 
-const btnPrimaryBorder = 'var(--btn-primary-border, rgba(15, 112, 215, 0.5))'; // colorPrimary, 50%
+const btnPrimaryBorder = 'var(--btn-primary-border, rgba(134, 98, 255, 0.5)'; // colorPrimary, 50%
 const btnPrimaryColor = `var(--btn-primary-color, ${colorWhite})`;
 const btnPrimaryBg = `var(--btn-primary-bg, ${colorPrimary})`;
-const btnPrimaryHoverBg = 'var(--btn-primary-hover-bg, #0C57A7)';
-const btnPrimaryActiveBg = 'var(--btn-primary-active-bg, #0A4B8F)';
+const btnPrimaryHoverBg = 'var(--btn-primary-hover-bg, #7454e1)';
+const btnPrimaryActiveBg = 'var(--btn-primary-active-bg, #7454e1)';
 
 const btnSuccessBorder = `var(--btn-success-border, ${colorSuccess})`;
 const btnSuccessColor = `var(--btn-success-color, ${colorWhite})`;
