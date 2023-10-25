@@ -1,5 +1,5 @@
 const colorWhite = 'var(--color-white, #FFF)';
-const colorOffWhite = 'var(--color-off-white, #F3F6F9)';
+const colorOffWhite = 'var(--color-off-white, #EEEEFF)';
 
 const colorBlack = 'var(--color-black, #000000)';
 
@@ -9,7 +9,7 @@ const colorGrayLight = 'var(--color-gray-light, #8B9AA8)';
 const colorGrayLighter = 'var(--color-gray-lighter, #A7B3BD)';
 const colorGrayLightest = 'var(--color-gray-lightest, #D4D9DF)';
 
-const colorBlueLight = 'var(--color-blue-light, #54a1f3)';
+const colorBlueLight = 'var(--color-blue-light, #D9CEFF)';
 const colorBlueLighter = 'var(--color-blue-lighter, #92BCEA)';
 const colorBlueLightest = 'var(--color-blue-lightest, #E4ECF2)';
 
@@ -17,12 +17,12 @@ const colorTransparent = 'var(--color-transparent, #ff000000)';
 
 const colorPrimary = 'var(--color-primary, #8662ff)';
 const colorDanger = 'var(--color-danger, #e9635f)';
-const colorDangerDark = 'var(--color-danger-dark, #AE1010)';
+const colorDangerDark = 'var(--color-danger-dark, #E9635F)';
 const colorSuccess = 'var(--color-success, #8662FF)';
 const colorWarning = 'var(--color-warning, purple)';
 const colorOffline = `var(--color-offline, ${colorGrayLight})`;
 const colorMuted = 'var(--color-muted, #586571)';
-const colorMutedBackground = 'var(--color-muted-background, #F3F6F9)';
+const colorMutedBackground = 'var(--color-muted-background, #EEEEFF)';
 
 const colorBackground = `var(--color-background, ${colorGrayDark})`;
 const colorOverlay = 'var(--color-overlay, rgba(6, 23, 42, 0.75))';
@@ -34,7 +34,7 @@ const colorGrayLabel = `var(--color-gray-label, ${colorGray})`;
 const colorText = `var(--color-text, ${colorGray})`;
 const colorLink = `var(--color-link, ${colorPrimary})`;
 
-const listItemBgHover = 'var(--list-item-bg-hover, #DCE4ED)';
+const listItemBgHover = 'var(--list-item-bg-hover, #D3D0E5)';
 const colorTipBg = 'var(--color-tip-bg, #333333)';
 const itemFocusBorder = `var(--item-focus-border, ${colorBlueLighter})`;
 
@@ -82,7 +82,7 @@ const userThumbnailBorder = `var(--user-thumbnail-border, ${colorGrayLight})`;
 const loaderBg = `var(--loader-bg, ${colorGrayDark})`;
 const loaderBullet = `var(--loader-bullet, ${colorWhite})`;
 
-const systemMessageBackgroundColor = 'var(--system-message-background-color, #F9FBFC)';
+const systemMessageBackgroundColor = 'var(--system-message-background-color, #F9F9FC)';
 const systemMessageBorderColor = 'var(--system-message-border-color, #C5CDD4)';
 const systemMessageFontColor = `var(--system-message-font-color, ${colorGrayDark})`;
 const highlightedMessageBackgroundColor = 'var(--system-message-background-color, #fef9f1)';
