@@ -1,5 +1,5 @@
 const colorWhite = 'var(--color-white, #FFF)';
-const colorOffWhite = 'var(--color-off-white, #EEEEFF)';
+const colorOffWhite = 'var(--color-off-white, #F3F3FF)';
 
 const colorBlack = 'var(--color-black, #000000)';
 
@@ -22,7 +22,7 @@ const colorSuccess = 'var(--color-success, #8662FF)';
 const colorWarning = 'var(--color-warning, purple)';
 const colorOffline = `var(--color-offline, ${colorGrayLight})`;
 const colorMuted = 'var(--color-muted, #586571)';
-const colorMutedBackground = 'var(--color-muted-background, #EEEEFF)';
+const colorMutedBackground = 'var(--color-muted-background, #F3F3FF)';
 
 const colorBackground = `var(--color-background, ${colorGrayDark})`;
 const colorOverlay = 'var(--color-overlay, rgba(6, 23, 42, 0.75))';
@@ -34,7 +34,7 @@ const colorGrayLabel = `var(--color-gray-label, ${colorGray})`;
 const colorText = `var(--color-text, ${colorGray})`;
 const colorLink = `var(--color-link, ${colorPrimary})`;
 
-const listItemBgHover = 'var(--list-item-bg-hover, #D3D0E5)';
+const listItemBgHover = 'var(--list-item-bg-hover, #d8daff)';
 const colorTipBg = 'var(--color-tip-bg, #333333)';
 const itemFocusBorder = `var(--item-focus-border, ${colorBlueLighter})`;
 
