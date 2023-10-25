@@ -47,7 +47,7 @@ const btnDefaultGhostBg = 'var(--btn-default-bg, rgba(255, 255, 255, 0.1))'; // 
 const btnDefaultGhostBorder = 'var(--btn-default-border, rgba(255, 255, 255, 0.5))'; // colorWhite, 50%
 const btnDefaultGhostActiveBg = 'var(--btn-default-active-bg, rgba(255, 255, 255, 0.2))'; // colorWhite, 20%
 
-const btnPrimaryBorder = 'var(--btn-primary-border, rgba(134, 98, 255, 0.5)'; // colorPrimary, 50%
+const btnPrimaryBorder = 'var(--btn-primary-border, rgba(134, 98, 255, 0.5))'; // colorPrimary, 50%
 const btnPrimaryColor = `var(--btn-primary-color, ${colorWhite})`;
 const btnPrimaryBg = `var(--btn-primary-bg, ${colorPrimary})`;
 const btnPrimaryHoverBg = 'var(--btn-primary-hover-bg, #7454e1)';
